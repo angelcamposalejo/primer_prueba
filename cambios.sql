@@ -33,3 +33,4 @@ insert into conceptos(tipo,categoria) values
 ('David','David'),
 ('Marquesada','Marquesada');
 alter table caja add categoria varchar(100) not null;
+alter table caja add soloesprueba varchar(100)
