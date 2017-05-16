@@ -1,0 +1,59 @@
+c:\users\david\documents\visual studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\bin\Debug\sistemaOperaciones.exe.config
+c:\users\david\documents\visual studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\bin\Debug\sistemaOperaciones.exe
+c:\users\david\documents\visual studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\bin\Debug\sistemaOperaciones.pdb
+c:\users\david\documents\visual studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\bin\Debug\sistemaOperaciones.xml
+c:\users\david\documents\visual studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\bin\Debug\MySql.Data.dll
+c:\users\david\documents\visual studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.vbprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.agregarArticulo.resources
+c:\users\david\documents\visual studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.Form1.resources
+c:\users\david\documents\visual studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.Resources.resources
+c:\users\david\documents\visual studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.vbproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.exe
+c:\users\david\documents\visual studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.xml
+c:\users\david\documents\visual studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.pdb
+c:\users\david\documents\visual studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.entradas.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.salidas.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.inventarioGeneral.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.inventarioRutas.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.registrarVenta.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.movimientoAlmacen.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.visualizarVentas.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.entradasCaja.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.salidasCaja.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.reporteCaja.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.movimientosCaja.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.rutas.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\bin\Debug\sistemaOperaciones.exe.manifest
+C:\Users\David\Documents\Visual Studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\bin\Debug\sistemaOperaciones.application
+C:\Users\David\Documents\Visual Studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.exe.manifest
+C:\Users\David\Documents\Visual Studio 2015\Projects\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.application
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\bin\Debug\sistemaOperaciones.exe.config
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\bin\Debug\sistemaOperaciones.exe.manifest
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\bin\Debug\sistemaOperaciones.application
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\bin\Debug\sistemaOperaciones.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\bin\Debug\sistemaOperaciones.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\bin\Debug\sistemaOperaciones.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\bin\Debug\MySql.Data.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.vbprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.agregarArticulo.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.entradas.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.entradasCaja.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.Form1.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.inventarioGeneral.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.inventarioRutas.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.movimientoAlmacen.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.movimientosCaja.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.Resources.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.registrarVenta.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.reporteCaja.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.reportegeneral.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.rutas.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.salidas.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.salidasCaja.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.visualizarVentas.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.vbproj.GenerateResource.Cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.exe.manifest
+C:\Users\David\Documents\Visual Studio 2015\Projects\nueva version con csv\sistemaOperaciones\sistemaOperaciones\obj\Debug\sistemaOperaciones.application
